@@ -1,0 +1,47 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore compiled files
+*.so
+*.o
+*.out
+
+# Ignore model weights or large files
+*.h5
+*.ckpt
+*.pth
+*.onnx
+
+# Ignore dataset or large data files
+data/
+datasets/
+
+# Ignore results or output files
+results/
+output/
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.bak
+
+# Ignore YOLO specific files
+runs/
+
+/venv
+.venv

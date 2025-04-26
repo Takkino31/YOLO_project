@@ -1,0 +1,15 @@
+torch>=2.0
+torchvision
+numpy
+opencv-python
+matplotlib
+pandas
+scikit-learn
+seaborn
+pyyaml
+tqdm
+Pillow
+tk
+torchvision
+ultralytics
+
