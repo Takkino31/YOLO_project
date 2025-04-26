@@ -27,9 +27,6 @@ Thumbs.db
 *.pth
 *.onnx
 
-# Ignore dataset or large data files
-data/
-datasets/
 
 # Ignore results or output files
 results/
